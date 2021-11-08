@@ -29,6 +29,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_riverpod: ^1.0.0
 
   kaigi_plugin_a_2021:
     git:
