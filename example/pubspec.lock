@@ -68,7 +68,7 @@ packages:
       name: flutter_hooks
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.18.0"
+    version: "0.18.1"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -82,7 +82,7 @@ packages:
       name: flutter_riverpod
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -94,13 +94,13 @@ packages:
       name: hooks_riverpod
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   kaigi_plugin_a_2021:
     dependency: "direct main"
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "9df662f75f8d943d5b89a41c3fb935bf7120fb66"
+      resolved-ref: ea091f3983fa5efbbaa59b2cff43583d8754b6f4
       url: "https://github.com/koji-1009/kaigi_plugin_a_2021"
     source: git
     version: "0.0.1"
@@ -115,8 +115,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: main
-      resolved-ref: "178f50cb2998a11aeea6f993a6936991669f6d36"
+      ref: "0.1.0"
+      resolved-ref: "8509d0cce9d0f998b7aa91ba4a5f93af73078451"
       url: "https://github.com/koji-1009/kaigi_plugin_c_2021"
     source: git
     version: "0.0.1"
@@ -124,8 +124,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: main
-      resolved-ref: "323a3b95d47d675c17db0d2366d93c6b772d8cb0"
+      ref: "0.1.0"
+      resolved-ref: e98c4c72d99b2a506883cf201c6a6a95a23a7b82
       url: "https://github.com/koji-1009/kaigi_plugin_d_2021"
     source: git
     version: "0.0.1"
@@ -163,7 +163,7 @@ packages:
       name: riverpod
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   sky_engine:
     dependency: transitive
     description: flutter
