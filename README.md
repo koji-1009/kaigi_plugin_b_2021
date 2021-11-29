@@ -1,39 +1,13 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# About
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
+A sample repository for [FlutterKaigi 2021](https://flutterkaigi.jp/#/).
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
+This is one of the packages that will be included in [project_2021](https://github.com/koji-1009/kaigi_project_2021).
+This is a reference code to explain the management of Flutter's private plugins and packages, and the microservice of the UI.
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+# Description
 
-## Features
+Load [plugin_c](https://github.com/koji-1009/kaigi_plugin_c_2021) and [plugin_d](https://github.com/koji-1009/kaigi_plugin_d_2021), and display tab screen.
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+To check the operation of plugin_c alone, a Flutter application is prepared in the example directory.
+This sample application relies on [plugin_a](https://github.com/koji-1009/kaigi_plugin_a_2021) to get the theme.
