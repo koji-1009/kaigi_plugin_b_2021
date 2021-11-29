@@ -92,8 +92,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "1.0.0"
-      resolved-ref: e49c7749d17d586c2105433a1260934932b5f009
+      ref: "1.0.1"
+      resolved-ref: b50dfab731b52cda342d42b5e7d733c25ab92051
       url: "https://github.com/koji-1009/kaigi_plugin_c_2021"
     source: git
     version: "0.0.1"

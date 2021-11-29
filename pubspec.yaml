@@ -16,7 +16,7 @@ dependencies:
   kaigi_plugin_c_2021:
     git:
       url: https://github.com/koji-1009/kaigi_plugin_c_2021
-      ref: 1.0.0
+      ref: 1.0.1
   kaigi_plugin_d_2021:
     git:
       url: https://github.com/koji-1009/kaigi_plugin_d_2021
